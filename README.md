@@ -2,7 +2,7 @@
 
 Status: Finalizado ✔️
 
-Este curso apresenta a programação Python adaptada para análise de dados, exploração e modelagem preditiva, abrangendo técnicas de estatísticas, visualização de dados e métodos de machine learning.
+Este repositório apresenta a programação Python adaptada para análise de dados, exploração e modelagem preditiva, abrangendo técnicas de estatísticas, visualização de dados e métodos de machine learning.
 
 <h2>Conteúdo do Curso</h2>
 
